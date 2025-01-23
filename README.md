@@ -1,4 +1,4 @@
-# 自动在geoserver发布图层
+# 不上传，自动在geoserver发布图层
 基于springboot（3.3.3），只有一个接口，能够不上传文件，自动在geoserver发布已经在服务器中的tiff文件。
 - 在**application.yml**中配置geoserver
 - 确保geoserver已经启动
