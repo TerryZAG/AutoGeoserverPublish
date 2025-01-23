@@ -1,0 +1,6 @@
+server:
+  port: 8081
+geoserver:
+  url: http://localhost:8080/geoserver/
+  username: admin
+  password: geoserver
